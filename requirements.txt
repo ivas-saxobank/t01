@@ -1,0 +1,14 @@
+matplotlib
+matplotlib_inline
+numpy
+pandas
+scipy.stats
+gym
+Shimmy
+gymnasium
+pygame
+stable_baselines3
+sb3_contrib
+sb3-contrib
+arrow
+imageio
